@@ -1,0 +1,5 @@
+numpy
+pandas
+streamlit
+openai==1.0.0
+dotenv
